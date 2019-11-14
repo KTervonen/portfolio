@@ -1,4 +1,4 @@
 # portfolio
 
 
-Testing the repository for storing files for my FCC portfolio project.
+Repository for storing images for my portfolio.
